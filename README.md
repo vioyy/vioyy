@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Baker (Gosty)** — a future software engineer who loves building aesthetic digital experiences.
+I'm **Baker (Gosty, Vioy, Akira )** — a future software engineer who loves building aesthetic digital experiences.
 
 I learn, code, and create every day.  
 If an idea hits my mind, chances are I’ll turn it into a project, improve it, and share it.
