@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-# Hey there! 👋
-
 I'm **Baker (Gosty)** — a future software engineer who loves building aesthetic digital experiences.
 
 I learn, code, and create every day.  
@@ -45,4 +42,3 @@ More links coming soon...
 
 > “Small steps every day lead to insane results.”
 
--->
