@@ -40,5 +40,5 @@ More links coming soon...
 
 ---
 
-> “Small steps every day lead to insane results.”
+> "Passo dopo passo!"
 
