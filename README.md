@@ -18,17 +18,16 @@ I'm currently building simple projects and leveling up step by step.
 
 ---
 
-### 💡 My Goals  
-- Become a full-stack developer  
-- Build clean, aesthetic websites  
-- Create tools, apps, and tech content  
-- Document my journey publicly  
+## 🌐 What I’m Learning
+- Frontend basics (HTML, CSS, JavaScript)
+- Version control with Git & GitHub
+- Creating practical mini-projects
 
 ---
 
 ### ⚡ Fun Facts  
 - I love clean setups & minimal design  
-- Anime inspires my creativity  
+- Anime & gaming inspires my creativity  
 - Gym + coding = perfect balance for me  
 - I enjoy learning new languages (Italiano 🇮🇹)
 
