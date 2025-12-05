@@ -25,7 +25,7 @@ I'm currently building simple projects and leveling up step by step.
 
 ---
 
-### ⚡ Fun Facts  
+### ⚡ Facts  
 - I love clean setups & minimal design  
 - Anime & gaming inspires my creativity  
 - Gym + coding = perfect balance for me  
